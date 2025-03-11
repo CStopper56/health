@@ -1,0 +1,3 @@
+[submodule "frontend/health-dashboard"]
+	path = frontend/health-dashboard
+	url = https://github.com/CStopper56/health-dashboard.git
