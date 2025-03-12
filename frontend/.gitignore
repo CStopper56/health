@@ -1,3 +1,7 @@
+[submodule "frontend/health-dashboard"]
+    path = frontend/health-dashboard
+    url = https://github.com/CStopper56/health-dashboard
+
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
