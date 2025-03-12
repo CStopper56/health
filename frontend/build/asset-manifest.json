@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/health-dashboard/static/css/main.6b418499.css",
+    "main.js": "/health-dashboard/static/js/main.43a34964.js",
+    "static/media/TestLogo.svg": "/health-dashboard/static/media/TestLogo.4263842592cc778133a0bb316ffcdf93.svg",
+    "static/media/respiratory_rate.svg": "/health-dashboard/static/media/respiratory_rate.f64e87137e3bc410de43648a065002ba.svg",
+    "static/media/settings.svg": "/health-dashboard/static/media/settings.c618b766774429064fe7d62cb449522a.svg",
+    "static/media/group.svg": "/health-dashboard/static/media/group.b12d4c5f9c47fe2db55bd5c8ca3a6d5f.svg",
+    "static/media/temperature.svg": "/health-dashboard/static/media/temperature.baf5f1b0ca2372ed24c6eb8806317384.svg",
+    "static/media/heartbpm.svg": "/health-dashboard/static/media/heartbpm.3fd988048c4886d496a17dc5fb055fa9.svg",
+    "static/media/PhoneIcon.svg": "/health-dashboard/static/media/PhoneIcon.207eb003adef71dc1cd284ea23b040ec.svg",
+    "static/media/InsuranceIcon.svg": "/health-dashboard/static/media/InsuranceIcon.5623909389ea948bf859dd582080b405.svg",
+    "static/media/MaleIcon.svg": "/health-dashboard/static/media/MaleIcon.8863874c54169a983d49444153e5af3d.svg",
+    "static/media/FemaleIcon.svg": "/health-dashboard/static/media/FemaleIcon.14bfbf38367ba71f7260aeac6992bea0.svg",
+    "static/media/BirthIcon.svg": "/health-dashboard/static/media/BirthIcon.a4874f8ce26d24e6d51aa361c0e95034.svg",
+    "static/media/calendar_today.svg": "/health-dashboard/static/media/calendar_today.b6a269d5610d30df96b88dbd79165e46.svg",
+    "static/media/ver_dots.svg": "/health-dashboard/static/media/ver_dots.1b3c51b34ea22ee69e974ab50dec237a.svg",
+    "static/media/home.svg": "/health-dashboard/static/media/home.0a29fe61ac657be128b0339a07973921.svg",
+    "static/media/three_dots.svg": "/health-dashboard/static/media/three_dots.d1d158d12873b7c60612cb7872fddc2d.svg",
+    "static/media/search.svg": "/health-dashboard/static/media/search.67180c513c4720294d223a1d2dad8fe7.svg",
+    "static/media/credit_card.svg": "/health-dashboard/static/media/credit_card.6682bf7ff1a806c4553c0cc4320356e5.svg",
+    "static/media/chat_bubble.svg": "/health-dashboard/static/media/chat_bubble.f6829ab5da15d089ffa5394282752f9a.svg",
+    "index.html": "/health-dashboard/index.html",
+    "main.6b418499.css.map": "/health-dashboard/static/css/main.6b418499.css.map",
+    "main.43a34964.js.map": "/health-dashboard/static/js/main.43a34964.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b418499.css",
+    "static/js/main.43a34964.js"
+  ]
+}
